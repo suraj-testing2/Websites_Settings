@@ -88,7 +88,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <auto-service.version>1.0-rc6</auto-service.version>
     <java.version>1.7</java.version>
-    <guava.version>27.0.1-android</guava.version>
+    <guava.version>30.1.1-android</guava.version>
     <surefire.version>3.0.0-M3</surefire.version>
     <!--
       NOTE: When updating errorprone.version, also update javac.version to the
